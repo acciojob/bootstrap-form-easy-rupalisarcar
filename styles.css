@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+.form-input{
+	width:90%;
+	margin:10px auto;
+	padding:25px 15px;
+	border: 1px solid #ccc;
+}
+.form-input h2{
+	text-align:center;
+	font-weight:600;
+}
